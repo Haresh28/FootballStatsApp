@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Date: Wed, 26 Jul 2023 05:04:45 GMT
+Vary: Accept-Encoding
+X-Host: web02
+Set-Cookie: TMSESSID=674270ce00caadf74bf054dcfa75ab54; path=/; domain=.transfermarkt.com; secure; HttpOnly; SameSite=lax
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-User: 0
+X-Frame-Options: DENY
+Permissions-Policy: interest-cohort=()
+Access-Control-Allow-Origin: *
+X-Cache-Status: MISS
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 a29f9f1ff42721dbcda7f3bae04962a0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA51-P3
+X-Amz-Cf-Id: rKmkC_PHgXTfatlF8uUQjIAYPRKckFX-3CA_W5OGEj14hXct9WNQ5w==

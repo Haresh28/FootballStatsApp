@@ -1,0 +1,17 @@
+Content-Type: text/html; charset=UTF-8
+Server: nginx
+Date: Wed, 26 Jul 2023 05:10:52 GMT
+Vary: Accept-Encoding
+X-Host: web02
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-User: 0
+Permissions-Policy: interest-cohort=()
+Access-Control-Allow-Origin: *
+X-Cache-Status: HIT
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 63aba6cb214ef6e4e28957fb11a1087e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAA51-P3
+X-Amz-Cf-Id: olHTmtV-a3yRxyxuJ2yueXNbTqyX8VDqOvZIii17fMj9MPHiOMhuTA==
