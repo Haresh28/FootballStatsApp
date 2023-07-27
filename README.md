@@ -13,7 +13,6 @@
 
 ### Prerequisites
 ```sh
-pip install pygame
 pip install diskcache
 pip install scrapy
 pip install tqdm
